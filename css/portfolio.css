@@ -1,0 +1,157 @@
+.portfolio{
+    display: flex;
+    margin-left: 30vh;
+    margin-right: 30vh;
+}
+.leftColumn{
+    flex: 1;
+    width: 50vh;
+    
+}
+.parentleft{
+background-color:#212025;
+    height: 240vh;
+}
+hr{
+    background-color: #ffcc00;
+    height: 2.5px;
+    border: none;
+}
+
+.profile{
+    /* padding-left: 70px; */
+    /* align-content: center; */
+    max-width: 50vh;
+    /* max-height: 50vh; */
+    
+}
+.leftPadding{
+    margin-top: 60px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+.heading{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: medium;
+}
+.subcontent{
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    margin-left: 50px;
+    margin-bottom: 20px;
+
+
+}
+.contact{
+    
+    display: flex;
+    height: 50px;
+
+}
+.leftyellow{
+    background-color: #ffcc00;
+    flex: 2;
+}
+.designedsectiontext{
+    padding-left: 90px;
+    color: white;
+}
+
+
+
+
+
+.rightbox{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 25px;
+    
+    flex:7;
+    background-color: #282a2e;
+    color: white;
+}
+
+.rightColumn{
+    
+    flex: 2;
+    background-color:white;
+
+}
+.rightpadding{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-left: 40px;
+    color: #c5c5c5;
+}
+.righthr{
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: #979292;
+    height: 2.5px;
+}
+
+.name{
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: 40px;
+    font-stretch: ultra-expanded;
+    background-color: #ffcc00;
+    padding: 40px;
+}
+.rightheading{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #979292;
+    font-size: medium;
+}
+.rightsubcontent{
+    margin-left: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #979292;
+    font-size: small;
+    margin-right: 20px;
+
+}
+
+
+.educationsection{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    padding-left: 20px;
+    color: #979292;
+}
+.year{
+    flex:1;
+}
+.details{
+    flex:4;
+}
+.skills{
+    padding-left: 150px;
+    color:#979292;
+    display: flex;
+}
+.leftskill{
+    flex: 1;
+}
+.rightskill{
+    flex:1
+}
+.skillgraph{
+    height: 8px;
+    width:140px;
+    display: flex;
+}
+.leftgraph{
+    flex:4;
+    background-color:#282a2e;
+}
+.rightgraph{
+    flex:1;
+    background-color:#979292;
+
+ 
+}
+.Skills{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
